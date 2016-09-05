@@ -1,0 +1,95 @@
+#body {
+ background: #ffff;
+ color: rgba(41,41,41,.85);
+ font-size: 16px;
+ line-height: 1.5;
+ padding-bottom: 0;
+ margin: 0;
+ font-family: 'Raleway', sans-serif; 
+}
+#navbar-wrapper{
+    color: #fffff;
+    top: auto;
+}
+#navbar-header{
+  color: #fffff;
+  }
+#carrouselslide{
+    position: relative;
+ }   
+
+#contactform {
+  background-color: #ddcc11;
+  position: absolute; 
+  top:30px;
+  right: 30px;
+  z-index: 100;
+  border-radius: 2px;
+  margin: 1;
+  padding: 1%;
+  border: solid 2px #ccccc1; 
+}
+#contactform input {
+  background-color: #ffffff;
+    width: 100%;
+    height: 40px;
+  margin-bottom: 1px; 
+  border:thin solid #cccccc;  
+  border-radius: 2px;
+  text-transform:  capitalize; 
+  padding: 5px;     
+}
+#contactform {
+  background-color: #DFE2DB;
+  position: absolute; 
+  top:80px;
+  right: 30px;
+  padding:2px;
+  z-index: 10;
+  border-radius: 2px;
+  margin: 1;
+  padding: 1%;
+  font-family: 'Raleway', medium;
+}
+#contactform input {
+  background-color: #ffffff;
+    width: 80% center;
+    height: 70px;
+  border:thin solid 2px #DFE2DB;  
+  border-radius: 2px;
+  text-transform:  capitalize; 
+  font-family: 'Raleway', medium;
+  padding: 5px;        
+}
+#name{
+   background-color: #DFE2DB;
+   width: 150% center;
+   text-orientation: 35:upright;
+   text-transform:  capitalize;
+   font-family: 'Raleway', medium;
+  }
+#phone{ 
+  background-color: #DFE2DB;
+   width: 150% center;
+   text-orientation: 35:upright;
+   text-transform:  capitalize;
+   font-family: 'Raleway', medium;
+  }
+#email{ 
+  background-color: #DFE2DB;
+   width: 150% center;
+   text-orientation: 35:upright;
+   text-transform:  capitalize;
+   font-family: 'Raleway', medium;
+  }
+#comments { 
+  background-color: #ffffff;
+   width: 150% center;
+   text-orientation: 100%:
+   text-transform:  capitalize;
+   font-family: 'Raleway', medium;
+  }
+#submit{
+ background-color: #191919;
+  font-family: 'Raleway', medium;
+  }
